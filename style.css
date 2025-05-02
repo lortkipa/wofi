@@ -1,0 +1,31 @@
+window {
+    background-color: #515151;
+    border: 4px solid #FF00E6;
+    font-size: 20px;
+    color: white;
+}
+
+#outer-box {
+    padding: 8px;
+}
+
+#inner-box,
+#scroll {
+    margin: 4px;
+}
+
+#input {
+    background-color: lightgray;
+    border: 2px solid #FF00E6;
+    margin: 8px;
+    color: red;
+}
+
+#entry {
+    border-radius: 4px;
+    padding: 8px;
+}
+
+#entry:selected {
+    background-color: #FF00E6;
+}
